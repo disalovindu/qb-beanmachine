@@ -70,4 +70,4 @@ Cool and Simple Beanmachine Job
 	},
 ```
 
-# Don't Forget to add the images to inventory
+# Don't Forget to add the images to inventory!
